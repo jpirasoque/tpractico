@@ -1,0 +1,36 @@
+form{background: black;
+	color: red;
+	border-radius: 3px;
+	padding:20px;
+	margin: 0 auto;
+	width: 300px;
+	height: ;
+	font-size:15PX
+
+}
+body{
+	background: #000000;
+color: #ffffff;
+background: url(imagenes/img1.jpg) no-repeat center center/cover;
+font-size: 16px;
+
+}
+input,textarea{
+
+	outline: none;
+
+}
+.field{
+border: solid 1px #ccc;
+padding: 10px;
+width: 280px;
+
+}
+.field:focus{
+border-color:black;
+
+}
+a{
+	color: red;
+}
+
